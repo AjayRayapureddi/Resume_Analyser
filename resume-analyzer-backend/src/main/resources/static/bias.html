@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bias Overview</title>
+    <link rel="stylesheet" href="bias.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container">
+
+    <button class="back-btn" onclick="goBack()">← Back to Dashboard</button>
+
+    <h1>Bias Overview</h1>
+    <p class="subtitle">Before vs After Fairness Comparison</p>
+
+    <!-- METRIC CARDS -->
+    <div class="card-row">
+        <div class="card before">
+            <h3>Before Fairness</h3>
+            <p>Disparate Impact (DI): <strong id="beforeDI">0.33</strong></p>
+            <p>Statistical Parity Difference (SPD): <strong id="beforeSPD">-0.66</strong></p>
+        </div>
+
+        <div class="card after">
+            <h3>After Fairness</h3>
+            <p>Disparate Impact (DI): <strong id="afterDI">0.33</strong></p>
+            <p>Statistical Parity Difference (SPD): <strong id="afterSPD">-0.67</strong></p>
+        </div>
+    </div>
+
+    <!-- CHART -->
+    <div class="chart-card">
+        <canvas id="biasChart"></canvas>
+    </div>
+
+    <p class="note">
+        This comparison shows how fairness-aware reweighting impacts gender bias metrics.
+    </p>
+
+</div>
+
+<script src="bias.js"></script>
+</body>
+</html>

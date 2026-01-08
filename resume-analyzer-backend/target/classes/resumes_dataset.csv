@@ -1,0 +1,7 @@
+"skillCount,experienceYears,education,careerGap,gender,collegeTier,age,location,selected"
+"5,4,Bachelor,false,Male,Tier1,28,Urban,true"
+"4,3,Bachelor,false,Male,Tier1,30,Urban,true"
+"3,2,Bachelor,false,Female,Tier3,38,Rural,false"
+"4,3,Bachelor,false,Female,Tier3,40,Rural,true"
+"6,5,Master,false,Male,Tier2,32,Urban,true"
+"2,1,Bachelor,true,Female,Tier3,45,Rural,false"

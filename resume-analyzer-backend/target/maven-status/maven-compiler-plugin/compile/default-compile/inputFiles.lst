@@ -1,0 +1,10 @@
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\BiasDetector.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\Candidate.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\DatasetLoader.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\FairLogisticRegression.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\FairRanking.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\FeatureExtractor.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\ResumeAnalyzerBackendApplication.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\ReweighingAlgorithm.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\WekaDatasetBuilder.java
+C:\Users\krush\Downloads\resume-analyzer-backend\resume-analyzer-backend\src\main\java\com\project\resume\WekaFairLogisticTrainer.java

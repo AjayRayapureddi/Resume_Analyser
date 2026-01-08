@@ -1,0 +1,11 @@
+com\project\resume\FairLogisticRegression.class
+com\project\resume\FairRanking.class
+com\project\resume\WekaFairLogisticTrainer.class
+com\project\resume\ReweighingAlgorithm.class
+com\project\resume\Candidate.class
+com\project\resume\DatasetLoader.class
+com\project\resume\FairRanking$1.class
+com\project\resume\FeatureExtractor.class
+com\project\resume\ResumeAnalyzerBackendApplication.class
+com\project\resume\WekaDatasetBuilder.class
+com\project\resume\BiasDetector.class
